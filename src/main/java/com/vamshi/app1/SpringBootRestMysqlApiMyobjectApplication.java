@@ -10,5 +10,6 @@ public class SpringBootRestMysqlApiMyobjectApplication {
 		SpringApplication.run(SpringBootRestMysqlApiMyobjectApplication.class, args);
 		System.out.println("Started!");
 		System.out.println("First Push");
+		System.out.println("Second Push");
 	}
 }
